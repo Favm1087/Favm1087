@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/fernando-arturo-varilla-mendoza-945a242a8" target="blank">
+  <a href="https://www.linkedin.com/in/fernando-arturo-varilla-mendoza-945a242a8/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
