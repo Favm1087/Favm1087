@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, yo soy Fernando Varilla</h1>
-<h3 align="center">Un apasionado por los datos</h3>
+<h1 align="center">Hola 👋, yo soy Fernando Varilla</h1>
+<h3 align="center"> Un Estadistico y especialista en ciencia de datos apasionado </h3>
 
 - 💬 Ask me about **R-studio,Phyton,Power Bi,excel**
 
